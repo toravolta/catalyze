@@ -32,3 +32,7 @@ Artikel yang dikelola melalui CMS diatas, akan tampil pada homepage carousel. un
 
 -   hover artike image untuk melihat sekilas isi dari artikel tersebut.
 -   klik artikel text untuk melihat detail artikel
+
+Unit Testing CMS Artikel
+
+-   jalankan perintah "php artisan test"
